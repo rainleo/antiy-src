@@ -78,7 +78,7 @@
         <jjwt.version>0.9.0</jjwt.version>
         <fastjson.version>1.2.47</fastjson.version>
         <csos.asset.vo.version>1.0-SNAPSHOT</csos.asset.vo.version>
-        <security-oauth2.version>2.3.3.RELEASE</security-oauth2.version>
+        <security-oauth2.version>2.3.6.RELEASE</security-oauth2.version>
         <oauth2-autoconfigure.version>2.0.3.RELEASE</oauth2-autoconfigure.version>
         <data-redis.version>2.1.3.RELEASE</data-redis.version>
         <start-security.version>1.2.5.RELEASE</start-security.version>
