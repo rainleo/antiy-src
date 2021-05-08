@@ -39,7 +39,7 @@
         <log4jdbc.version>1.2</log4jdbc.version>
         <lombok.version>1.16.20</lombok.version>
         <hibernate.version>6.0.8.Final</hibernate.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.6.0</shiro.version>
         <jwt.version>3.2.0</jwt.version>
         <kaptcha.version>0.0.9</kaptcha.version>
         <commons.lang.version>2.6</commons.lang.version>
